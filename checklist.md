@@ -59,7 +59,7 @@ This new instance of the Checklist is a work in progress. Most of the data alrea
  * VI, Altchristliche Texte, ed. C. Schmidt and W. Schubart. 1910. &#91;MF 1.16&#93; [Online: archive.org](https://archive.org/details/altchristlichete06schm)
  * VII, Rhetorische Papyri, ed. K. Kunst. 1923. &#91;MF 1.17&#93; [Online: archive.org](https://archive.org/details/altchristlichete00schu/page/n157/mode/2up)
  * VIII, Berliner Septuagintafragmente, ed. O. Stegmüller. 1939. [MF 1.18]
- * IX, Catalogue of Greek and Latin Literary Papyri in Berlin (P.Berol.inv. 21101—21299, 21911), ed. G. Ioannidou. Mainz 1996. [PvZ]
+ * IX, Catalogue of Greek and Latin Literary Papyri in Berlin (P.Berol. Inv. 21101—21299, 21911), ed. G. Ioannidou. Mainz 1996. [PvZ]
  * X, Literarische Texte der Berliner Papyrussammlung, ed. F. Reiter. Berlin 2012. Nos. 1—30.
 
 ### <a id="BKU">BKU</a>
